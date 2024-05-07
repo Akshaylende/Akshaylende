@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshaylende
-- 👀 I’m interested in New Technologies
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Competitive Programming
+- 🌱 I’m currently learning Distributed Systems
+- 💞️ I’m looking to collaborate on Complex projects
 - 📫 How to reach me By Email or Phone 
 
 <!---
