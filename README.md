@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshaylende
-- 👀 I’m interested in solving real-world problems in Software Development 
+- 👀 I’m interested in solving real-world problems using Software Development 
 - 🌱 I’m currently learning Distributed Systems
-- 💞️ I’m looking to collaborate on Complex projects
+- 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me By Email or Phone 
 
 <!---
