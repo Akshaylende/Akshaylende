@@ -47,7 +47,7 @@ I am a results-oriented problem-solver adept at designing, developing, and deplo
 WayShare  
 An application where students can find the past years' papers of international boards. They can download the papers or they can create a practice test and perform the test in test conditions. Please check out on Quizwise
 
-Qwitter App  
+**Qwitter App**  
 - A Web-based platform designed for users to interact with blogs while performing multiple operations on it.  
 - Implemented features like User Authentication, Blogs Feed, User Admin page, CRUD on Blogs & Database management. 
 
