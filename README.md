@@ -53,8 +53,8 @@ I am a results-oriented problem-solver adept at designing, developing, and deplo
    - Implemented features like User Authentication, Blogs Feed, User Admin page, CRUD on Blogs & Database management. 
 
 ## Contact
-- LinkedIn  
-- Github  
-- Portfolio
+- [Portfolio](https://akshaylende.github.io/Portfolio/)    
+- [Email](akshaylende26@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/akshay-lende-1193841a4/)  
     
 Feel free to reach out if you'd like to connect or discuss a potential collaboration. I'm always excited to take on new challenges and work on building innovative projects.
