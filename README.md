@@ -45,16 +45,16 @@ I am a results-oriented problem-solver adept at designing, developing, and deplo
 
 ## Projects
 
- **WayShare**  
+ **[WayShare](https://github.com/Akshaylende/WayShare)**  
    - A web-app to share and travel on the way commutes with its users allowing them to manage Ride booking.
    - Implemented features like User Authentication, Rides feed and Filters, CRUD using REST API, User info & summary page.
    - Engineered multiple Automated Aggregations scripts to process the data and deployed the app on render platform.  
  
- **Magical Arena**
+ **[Magical Arena](https://github.com/Akshaylende/Magical-Arena)**
    - A turn-based combat simulation game for two players with distinct attributes to engage in a battle within an arena. 
    - Implemented Object oriented design, modules, Comprehensive unit tests and provided detailed documentation.
      
- **Qwitter App**  
+ **[Qwitter App](https://github.com/Akshaylende/Qwitter)**  
    - A Web-based platform designed for users to interact with blogs while performing multiple operations on it.  
    - Implemented features like User Authentication, Blogs Feed, User Admin page, CRUD on Blogs & Database management. 
 
